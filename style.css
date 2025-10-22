@@ -1,0 +1,12 @@
+img{
+    width: 900px;
+}
+body{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    background-color: cornflowerblue;
+    color:black;
+    border: 2px solid black;
+    padding-bottom:100px;
+    margin: 200px
+}
